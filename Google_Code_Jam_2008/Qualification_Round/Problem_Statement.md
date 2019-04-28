@@ -28,6 +28,11 @@ For each input case, you should output:
 
 where __X__ is the number of the test case and __Y__ is the number of search engine switches. Do not count the initial choice of a search engine as a switch.
 
+
+
+
+
+
 Limits
 
 0<__N__<=20
@@ -48,68 +53,37 @@ __Sample__
 
 >__Input__
 
->Yeehaw
-
->NSM
-
->Dont Ask
-
->B9
-
->Googol
-
->10
-
->Yeehaw
-
->Yeehaw
-
->Googol
-
->B9
-
->Googol
-
->NSM
-
->B9
-
->NSM
-
->Dont Ask
-
->Googol
-
->5
-
->Yeehaw
-
->NSM
-
->Dont Ask
-
->B9
-
->Googol
-
->7
-
->Googol
-
->Dont Ask
-
->NSM
-
->NSM
-
->Yeehaw
-
->Yeehaw
-
->Googol
-
+    Yeehaw
+    NSM
+    Dont Ask
+    B9
+    Googol
+    10
+    Yeehaw
+    Yeehaw
+    Googol
+    B9
+    Googol
+    NSM
+    B9
+    NSM
+    Dont Ask
+    Googol
+    5
+    Yeehaw
+    NSM
+    Dont Ask
+    B9
+    Googol
+    7
+    Googol
+    Dont Ask
+    NSM
+    NSM
+    Yeehaw
+    Yeehaw
+    Googol
 >__Output__
 
->2
-
->5
+    2
+    5
