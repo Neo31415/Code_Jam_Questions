@@ -35,24 +35,26 @@ where __X__ is the number of the test case and __Y__ is the number of search eng
 
 Limits
 
-0<__N__<=20
+0<__N__≤20
 
 Small Dataset
 
-2<__S__<=10
+2≤__S__≤10
 
-0<__Q__<=100
+0≤__Q__≤100
 
 Large Dataset
+  
+2≤__S__≤100
 
-2<__S__<=100
-
-0<__Q__<=1000
+0≤__Q__≤1000
 
 __Sample__
 
 >__Input__
 
+    2
+    5
     Yeehaw
     NSM
     Dont Ask
@@ -85,5 +87,8 @@ __Sample__
     Googol
 >__Output__
 
-    2
-    5
+    Case #1: 1
+    Case #2: 0
+
+In the first case, one possible solution is to start by using Dont Ask, and switch to NSM after query number 8.
+For the second case, you can use B9, and not need to make any switches.
